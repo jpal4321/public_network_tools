@@ -18,8 +18,7 @@ def Handler(my_queue):
         device_type = 'cisco_nxos',
         username = username,
         password = password,
-        ip = device,
-        global_delay_factor = 1
+        ip = device
         )
  
         output = device_handler.send_command("show int status")
