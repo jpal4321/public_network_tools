@@ -23,12 +23,12 @@ def Handler(my_queue):
         )
  
         output = device_handler.send_command("show int status")
- 
-        print(f"######################### {device} starting #########################")
-        print(output)  
-        print(f"######################### {device} complete #########################") 
-        print("")    
-        success_list.append(device)
+        if output != "":
+            print(f"######################### {device} starting #########################")
+            print(output)  
+            print(f"######################### {device} complete #########################") 
+            print("")    
+            success_list.append(device)
  
     except Exception as error:
         print(error)
