@@ -6,10 +6,10 @@ Within this repo is Python training material in the form of PDF files and .py fi
 
 I use Python 3.8.5 and VSCode in the training material. 
 
-Lesson 1: Variables, Data Types, and Functions
+Topic 1: Variables, Data Types, and Functions
 
-Lesson 2: Loops and Conditional Statements
+Topic 2: Loops and Conditional Statements
 
-Lesson 3: Modules 
+Topic 3: Modules 
 
 More Lessons to come!
