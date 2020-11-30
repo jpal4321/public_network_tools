@@ -10,4 +10,6 @@ Lesson 1: Variables, Data Types, and Functions
 
 Lesson 2: Loops and Conditional Statements
 
+Lesson 3: Modules 
+
 More Lessons to come!
