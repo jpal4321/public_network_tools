@@ -12,4 +12,6 @@ Topic 2: Loops and Conditional Statements
 
 Topic 3: Modules 
 
-More Lessons to come!
+Topic 4: Netmiko
+
+More to come!
